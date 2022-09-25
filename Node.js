@@ -1,5 +1,5 @@
 const func = () =>
 {
-console.log("cbit")
+console.log("Hello Node.js!")
 }
 func();
